@@ -87,19 +87,28 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Work
+
+### 🏁 **Valkra Performance**
+**Simracing Community & Esports Team** - Complete gaming platform with real-time backend
 
 <div align="center">
-  <a href="https://github.com/KelvinPH/KH-ImageOptimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=KH-ImageOptimizer&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666" alt="KH-ImageOptimizer" />
-  </a>
-  <a href="https://github.com/KelvinPH/SpotiStream">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=SpotiStream&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666" alt="SpotiStream" />
-  </a>
-  <a href="https://github.com/KelvinPH/react-pastekit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=react-pastekit&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666" alt="react-pastekit" />
+  <a href="https://valkraperformance.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Valkra Performance" />
   </a>
 </div>
+
+**What I built:**
+- 🎮 **Gaming Platform**: Full simracing community website
+- ⚡ **Real-time Backend**: Live server stats and session data
+- 🏆 **Leaderboards**: Dynamic rankings from ACC server
+- 🖥️ **Server Integration**: Direct connection to Assetto Corsa Competizione
+- 📊 **Live Statistics**: Real-time server monitoring and player stats
+- 🎯 **Esports Team**: Professional team management and branding
+- 📱 **Mobile-First**: Fully responsive across all devices
+- 🔍 **SEO Optimized**: Built for search engine visibility
+
+*Built with modern web technologies, real-time APIs, and server integration*
 
 ---
 
