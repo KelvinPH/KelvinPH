@@ -93,7 +93,7 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 **Simracing Community & Esports Team** - Complete gaming platform with real-time backend
 
 <div align="center">
-  <img src="valkraperformancecom.png" alt="Valkra Performance Website" width="800" />
+  <img src="assets/valkraperformancecom.png" alt="Valkra Performance Website" width="800" />
   
   <br/>
   
