@@ -93,6 +93,10 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 **Simracing Community & Esports Team** - Complete gaming platform with real-time backend
 
 <div align="center">
+  <img src="valkraperformancecom.png" alt="Valkra Performance Website" width="800" />
+  
+  <br/>
+  
   <a href="https://valkraperformance.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Website-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Valkra Performance" />
   </a>
