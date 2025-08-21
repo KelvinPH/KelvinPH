@@ -63,7 +63,7 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 
 ## 💼 Professional Journey
 
-### 🚀 **InBody Europe • Senior Web Developer**
+### 🚀 **InBody Europe • Medior Web Developer**
 **Sole developer across EU sites** - Led complete digital transformation
 - 🔄 **Migration Master**: WPBakery → Elementor transition
 - ⚡ **Performance Guru**: Improved page speed by 60%+
