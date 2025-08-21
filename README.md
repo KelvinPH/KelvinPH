@@ -51,12 +51,12 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinPH&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPH&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinPH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPH&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinPH&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinPH&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,13 +91,13 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 
 <div align="center">
   <a href="https://github.com/KelvinPH/KH-ImageOptimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=KH-ImageOptimizer&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" alt="KH-ImageOptimizer" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=KH-ImageOptimizer&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666" alt="KH-ImageOptimizer" />
   </a>
   <a href="https://github.com/KelvinPH/SpotiStream">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=SpotiStream&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" alt="SpotiStream" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=SpotiStream&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666" alt="SpotiStream" />
   </a>
   <a href="https://github.com/KelvinPH/react-pastekit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=react-pastekit&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" alt="react-pastekit" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinPH&repo=react-pastekit&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666" alt="react-pastekit" />
   </a>
 </div>
 
