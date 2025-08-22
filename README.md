@@ -57,7 +57,7 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinPH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=8A2BE2&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinPH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=FEEA27&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPH&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&langs_count=8" alt="Top Languages" />
 </div>
 
