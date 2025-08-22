@@ -13,11 +13,11 @@
 I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creating clean, fast, and accessible digital experiences. When I'm not coding, you'll find me exploring new technologies or optimizing performance.
 
 ### 🎯 What I Do Best
-- **Frontend Magic**: Crafting responsive UIs with modern frameworks
-- **WordPress Wizardry**: Building custom themes and plugins  
-- **Performance Optimization**: Making websites lightning fast
-- **Accessibility Champion**: Ensuring everyone can use what I build
-- **SEO Specialist**: Getting sites found in search engines
+- **Frontend Development**: Building responsive UIs with modern frameworks
+- **WordPress Development**: Creating custom themes and plugins
+- **Performance Optimization**: Improving website speed and efficiency
+- **Accessibility**: Making websites usable for everyone
+- **SEO**: Optimizing sites for search engines
 
 ---
 
