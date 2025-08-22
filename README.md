@@ -104,7 +104,7 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
   <br/>
   
   <a href="https://valkraperformance.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Website-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Valkra Performance" />
+    <img src="https://img.shields.io/badge/Visit%20Website-feea27?style=for-the-badge&logo=globe&logoColor=black" alt="Visit Valkra Performance" />
   </a>
 </div>
 
