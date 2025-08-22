@@ -70,26 +70,26 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 ## 💼 Professional Journey
 
 ### 🚀 **InBody Europe • Medior Web Developer**
-**Sole developer across EU sites** - Led complete digital transformation
-- 🔄 **Migration Master**: WPBakery → Elementor transition
-- ⚡ **Performance Guru**: Improved page speed by 60%+
-- 🔍 **SEO Expert**: Implemented structured data & analytics
-- ♿ **Accessibility Advocate**: WCAG 2.1 AA compliance
-- 🛠️ **Custom Development**: PHP functions & ACF integrations
+**Sole developer across EU sites**
+- Website migration from WPBakery to Elementor
+- Performance optimization and speed improvements
+- SEO implementation and analytics setup
+- Accessibility improvements and WCAG compliance
+- Custom PHP development and ACF integrations
 
 ### 🎨 **Raadhuis • Frontend Developer**
-**Built responsive, accessible websites** with modern tech stack
-- 📱 **Mobile-First**: Foundation 6 + SCSS architecture
-- ♿ **WCAG Champion**: Accessibility-first development
-- ⚡ **Vue.js Integration**: Dynamic components where needed
-- 🎯 **Client-Focused**: Clean ACF backends for easy content management
+**Built responsive, accessible websites**
+- Mobile-first development with Foundation 6 and SCSS
+- Accessibility-focused development practices
+- Vue.js integration for dynamic components
+- Client-friendly ACF backends for content management
 
 ### 🛒 **I-Match • Full-Stack Developer**
-**End-to-end WordPress & WooCommerce solutions**
-- 🎨 **Design & Development**: Complete website creation
-- 🛒 **E-commerce**: WooCommerce configuration & optimization
-- ⚡ **Performance Tuning**: Speed optimization & caching
-- 🎯 **Content Strategy**: SEO-optimized content population
+**WordPress and WooCommerce development**
+- Complete website design and development
+- WooCommerce setup and configuration
+- Performance optimization and caching
+- SEO-optimized content and structure
 
 ---
 
@@ -98,7 +98,7 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 ### 🏁 **Valkra Performance**
 **Simracing Community & Esports Team** - Complete gaming platform with real-time backend
 
-<div align="center">
+<div align="left">
   <img src="assets/valkraperformancecom.png" alt="Valkra Performance Website" width="800" />
   
   <br/>
