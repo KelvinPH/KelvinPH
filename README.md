@@ -1,12 +1,8 @@
-<div align="center">
-
 # Kelvin Huurman
 
 Web Developer, Netherlands
 
 <img src="https://komarev.com/ghpvc/?username=KelvinPH&style=flat-square&color=808080" alt="Profile Views" height="20"/>
-
-</div>
 
 ## About
 
@@ -30,6 +26,11 @@ Site for a competitive sim racing team racing in iRacing and Le Mans Ultimate.
 Brand site for a clean energy drink built for athletes.
 
 <img src="https://framewrx.nl/_next/image?url=%2Fprojects%2Fboostmode%2Fboostmode_1.webp&w=3840&q=75" width="100%" alt="BoostMode site"/>
+
+### [Nowify](https://github.com/KelvinPH/Nowify) ★ 28
+My most-starred GitHub project: a highly customizable Spotify now-playing overlay for OBS, with a live configurator, presets, Twitch commands, and stream stats.
+
+<img src="https://github.com/KelvinPH/Nowify/raw/main/assets/screenshots/nowify_ss_01.png" width="100%" alt="Nowify overlay screenshot"/>
 
 ## Tech Stack
 
