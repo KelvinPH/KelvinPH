@@ -21,6 +21,31 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 
 ---
 
+## 🌐 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://valkraperformance.com" target="_blank">
+        <img src="https://valkraperformance.com/images/header/mercedes_gt3_nords.webp" width="100%" alt="Valkra Performance" />
+      </a>
+      <h3>🏁 Valkra Performance</h3>
+      <p>Website for a competitive sim racing team competing in iRacing and Le Mans Ultimate.</p>
+      <a href="https://valkraperformance.com">valkraperformance.com</a>
+    </td>
+    <td width="50%">
+      <a href="https://boostmode.nl" target="_blank">
+        <img src="https://boostmode.nl/images/hero/Boostmode_Can_Hero_Slide_1.jpg" width="100%" alt="BoostMode" />
+      </a>
+      <h3>⚡ BoostMode®</h3>
+      <p>Brand site for a clean energy drink built for athletes and ambitious people.</p>
+      <a href="https://boostmode.nl">boostmode.nl</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 ### Frontend & Design
@@ -95,3 +120,13 @@ I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creat
 - Performance optimization and caching
 - SEO-optimized content and structure
 
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://valkraperformance.com"><img src="https://img.shields.io/badge/Valkra_Performance-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://boostmode.nl"><img src="https://img.shields.io/badge/BoostMode-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</div>
