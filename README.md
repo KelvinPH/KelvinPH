@@ -24,12 +24,12 @@ Custom Laravel & React web development studio, based in the Netherlands.
 ### [Valkra Performance](https://valkraperformance.com)
 Site for a competitive sim racing team racing in iRacing and Le Mans Ultimate.
 
-<img src="https://valkraperformance.com/images/header/mercedes_gt3_nords.webp" width="49%" alt="Valkra Performance header"/> <img src="https://framewrx.nl/_next/image?url=%2Fprojects%2Fvalkraperformance%2Fvalkraperformance_1.webp&w=3840&q=75" width="49%" alt="Valkra Performance site"/>
+<img src="https://valkraperformance.com/images/header/mercedes_gt3_nords.webp" height="220" alt="Valkra Performance header"/> <img src="https://framewrx.nl/_next/image?url=%2Fprojects%2Fvalkraperformance%2Fvalkraperformance_1.webp&w=3840&q=75" height="220" alt="Valkra Performance site"/>
 
 ### [BoostMode®](https://boostmode.nl)
 Brand site for a clean energy drink built for athletes.
 
-<img src="https://boostmode.nl/images/hero/Boostmode_Can_Hero_Slide_1.jpg" width="49%" alt="BoostMode hero"/> <img src="https://framewrx.nl/_next/image?url=%2Fprojects%2Fboostmode%2Fboostmode_1.webp&w=3840&q=75" width="49%" alt="BoostMode site"/>
+<img src="https://boostmode.nl/images/hero/Boostmode_Can_Hero_Slide_1.jpg" height="220" alt="BoostMode hero"/> <img src="https://framewrx.nl/_next/image?url=%2Fprojects%2Fboostmode%2Fboostmode_1.webp&w=3840&q=75" height="220" alt="BoostMode site"/>
 
 ## Tech Stack
 
