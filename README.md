@@ -1,132 +1,70 @@
-# 👋 Hello, I'm Kelvin Huurman
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KelvinPH&style=flat-square&color=8A2BE2" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/From-Netherlands-FF6B6B?style=flat-square&logo=location" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00C853?style=flat-square" alt="Status" />
+
+# Kelvin Huurman
+
+Web Developer — Netherlands
+
+<img src="https://komarev.com/ghpvc/?username=KelvinPH&style=flat-square&color=808080" alt="Profile Views" height="20"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a passionate **Web Developer** from the Netherlands 🇳🇱 who loves creating clean, fast, and accessible digital experiences. When I'm not coding, you'll find me exploring new technologies or optimizing performance.
+I'm a **Web Developer** from the Netherlands who builds clean, fast, and accessible digital experiences. When I'm not coding, I'm exploring new technologies or shaving milliseconds off a page load.
 
-### 🎯 What I Do Best
-- **Frontend Development**: Building responsive UIs with modern frameworks
-- **WordPress Development**: Creating custom themes and plugins
-- **Performance Optimization**: Improving website speed and efficiency
-- **Accessibility**: Making websites usable for everyone
-- **SEO**: Optimizing sites for search engines
+**Focus areas:** frontend development · WordPress theme & plugin development · performance optimization · accessibility · SEO
 
 ---
 
-## 🌐 Featured Projects
+## Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://valkraperformance.com" target="_blank">
-        <img src="https://valkraperformance.com/images/header/mercedes_gt3_nords.webp" width="100%" alt="Valkra Performance" />
-      </a>
-      <h3>🏁 Valkra Performance</h3>
-      <p>Website for a competitive sim racing team competing in iRacing and Le Mans Ultimate.</p>
-      <a href="https://valkraperformance.com">valkraperformance.com</a>
-    </td>
-    <td width="50%">
-      <a href="https://boostmode.nl" target="_blank">
-        <img src="https://boostmode.nl/images/hero/Boostmode_Can_Hero_Slide_1.jpg" width="100%" alt="BoostMode" />
-      </a>
-      <h3>⚡ BoostMode®</h3>
-      <p>Brand site for a clean energy drink built for athletes and ambitious people.</p>
-      <a href="https://boostmode.nl">boostmode.nl</a>
-    </td>
-  </tr>
-</table>
+**[Framewrx](https://framewrx.nl)** — custom Laravel & React web development studio, Netherlands
+**[Valkra Performance](https://valkraperformance.com)** — site for a competitive sim racing team racing in iRacing and Le Mans Ultimate
+**[BoostMode®](https://boostmode.nl)** — brand site for a clean energy drink built for athletes
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
-### Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### Backend & Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### CMS & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Frontend** — HTML5 · CSS3 · Sass · Tailwind CSS · JavaScript · Vue.js · React
+**Design** — Figma · Adobe XD · Adobe Photoshop
+**Backend** — PHP · Laravel · Node.js · MySQL · Supabase
+**CMS** — WordPress · Elementor
+**Game Dev** — Unity · Unreal Engine
+**Tools** — Git · GitHub · VS Code
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinPH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=FEEA27&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPH&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinPH&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&icon_color=888888" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPH&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=222222&text_color=555555&langs_count=8" alt="Top Languages" height="165"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinPH&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
+> If the stats above show as broken images: the free `github-readme-stats.vercel.app` instance gets rate-limited a lot. See the note at the bottom for a fix.
 
 ---
 
-## 💼 Professional Journey
+## Experience
 
-### 🚀 **InBody Europe • Medior Web Developer**
-**Sole developer across EU sites**
-- Website migration from WPBakery to Elementor
-- Performance optimization and speed improvements
-- SEO implementation and analytics setup
-- Accessibility improvements and WCAG compliance
-- Custom PHP development and ACF integrations
+**InBody Europe** — Medior Web Developer *(sole developer across EU sites)*
+Website migration from WPBakery to Elementor · performance optimization · SEO & analytics setup · WCAG accessibility improvements · custom PHP & ACF integrations
 
-### 🎨 **Raadhuis • Frontend Developer**
-**Built responsive, accessible websites**
-- Mobile-first development with Foundation 6 and SCSS
-- Accessibility-focused development practices
-- Vue.js integration for dynamic components
-- Client-friendly ACF backends for content management
+**Raadhuis** — Frontend Developer
+Mobile-first development with Foundation 6 and SCSS · accessibility-focused practices · Vue.js integration · client-friendly ACF backends
 
-### 🛒 **I-Match • Full-Stack Developer**
-**WordPress and WooCommerce development**
-- Complete website design and development
-- WooCommerce setup and configuration
-- Performance optimization and caching
-- SEO-optimized content and structure
+**I-Match** — Full-Stack Developer
+WordPress & WooCommerce development · site design and build · performance optimization and caching · SEO-optimized structure
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
-<div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://valkraperformance.com"><img src="https://img.shields.io/badge/Valkra_Performance-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://boostmode.nl"><img src="https://img.shields.io/badge/BoostMode-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</div>
+Email — [k.huurman01@gmail.com](mailto:k.huurman01@gmail.com)
+LinkedIn — [linkedin.com/in/kelvin-huurman](https://www.linkedin.com/in/kelvin-huurman/)
+GitHub — [github.com/KelvinPH](https://github.com/KelvinPH)
+
+<sub>Note on GitHub Stats: the shared `github-readme-stats.vercel.app` demo instance is frequently rate-limited/down, which is likely why yours isn't loading. Fastest fix: fork the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats) and deploy your own free instance on Vercel, then swap the image URLs above to your own domain.</sub>
